@@ -4,12 +4,34 @@
     box-sizing: border-box;
 }
 
+
+
 header {
     width: 80%;
     margin: auto;
 }
 
+nav {
+    width: 80%;
+
+    margin: auto;
+}
+
+.bg-header {
+    background-color: rgb(164, 180, 209);
+}
+
 main {
+    width: 80%;
+    margin: auto;
+}
+
+.subscribe {
+    width: 80%;
+    margin: auto;
+}
+
+footer {
     width: 80%;
     margin: auto;
 }
